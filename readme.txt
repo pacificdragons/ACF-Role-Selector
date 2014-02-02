@@ -1,6 +1,5 @@
 === Advanced Custom Fields: User Role Selector Field ===
 Contributors: danielpataki
-Tags:
 Requires at least: 3.4
 Tested up to: 3.8.1
 Stable tag: trunk

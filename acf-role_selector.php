@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Advanced Custom Fields: User Role Selector
-Plugin URI: http://github.com
+Plugin URI: https://github.com/danielpataki/acf-role_selector
 Description: A field for Advanced Custom Fields which allows you to select a user role
 Version: 1.0.0
 Author: Daniel Pataki
