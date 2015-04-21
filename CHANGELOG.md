@@ -1,3 +1,6 @@
+### 3.0.1 (2015-04-20)
+- Fixed a typo which prevented checkbox fields from saving
+
 ### 3.0.0 (2015-04-20)
 - Updated for WordPress 4.2
 - Complete rewrite of code documentation
