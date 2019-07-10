@@ -1,0 +1,16 @@
+{
+  "name": "sidouglas/acf-role-selector",
+  "description": "ACF Role selector fork",
+  "keywords": ["wordpress", "plugin", "acf"],
+  "homepage": "https://github.com/sidouglas/ACF-Role-Selector.git",
+  "license": "MIT",
+  "authors": [{
+    "name": "Simon Douglas",
+    "email": "si@simondouglas.com",
+    "homepage": "http://simondouglas.com"
+  }],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.0.6"
+  }
+}
