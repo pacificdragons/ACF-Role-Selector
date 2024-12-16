@@ -9,6 +9,8 @@
  *
  */
 
+use advanced
+
 /**
  * ACF 4 Role Selector Class
  *
